@@ -238,4 +238,4 @@ This repository serves as the official landing page for Vidiot. The software is 
 **Get the most recent version of Vidiot today!**
 
 ---
-**Last updated:** 2026-09-13 17:56:27 UTC
+**Last updated:** 2026-09-13 20:31:44 UTC
